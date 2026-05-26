@@ -1,0 +1,9 @@
+location_id,city,region,location_type
+L001,Lübbecke,NRW,Entertainment Center
+L002,Bielefeld,NRW,Arcade Partner
+L003,Hannover,Lower Saxony,Entertainment Center
+L004,Dortmund,NRW,Arcade Partner
+L005,Münster,NRW,Retail Partner
+L006,Düsseldorf,NRW,Entertainment Center
+L007,Hamburg,Hamburg,Retail Partner
+L008,Bremen,Bremen,Arcade Partner

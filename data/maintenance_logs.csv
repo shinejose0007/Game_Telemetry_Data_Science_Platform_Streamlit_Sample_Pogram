@@ -1,0 +1,127 @@
+maintenance_id,device_id,maintenance_date,maintenance_type,downtime_minutes,technician_note
+M000001,D0001,2026-02-21,preventive,37,Checked error logs and reset device components.
+M000002,D0002,2026-01-07,hardware inspection,68,High error count required detailed inspection.
+M000003,D0003,2026-01-17,corrective,189,Preventive inspection completed.
+M000004,D0004,2026-02-09,corrective,159,Checked error logs and reset device components.
+M000005,D0005,2026-04-23,preventive,180,Preventive inspection completed.
+M000006,D0006,2026-01-09,corrective,207,High error count required detailed inspection.
+M000007,D0008,2026-02-09,software update,213,Checked error logs and reset device components.
+M000008,D0009,2026-05-04,preventive,165,High error count required detailed inspection.
+M000009,D0009,2026-04-13,corrective,210,Checked error logs and reset device components.
+M000010,D0010,2025-12-05,software update,141,Checked error logs and reset device components.
+M000011,D0011,2026-02-09,hardware inspection,29,High error count required detailed inspection.
+M000012,D0012,2026-05-06,preventive,87,Software patch installed after telemetry warning.
+M000013,D0012,2026-04-25,preventive,225,Software patch installed after telemetry warning.
+M000014,D0014,2025-12-23,software update,44,High error count required detailed inspection.
+M000015,D0015,2025-12-09,corrective,82,High error count required detailed inspection.
+M000016,D0016,2026-02-23,software update,66,Preventive inspection completed.
+M000017,D0017,2026-03-23,software update,116,Checked error logs and reset device components.
+M000018,D0017,2026-02-21,software update,101,Checked error logs and reset device components.
+M000019,D0018,2026-05-22,preventive,158,Software patch installed after telemetry warning.
+M000020,D0019,2026-03-05,preventive,46,Preventive inspection completed.
+M000021,D0020,2025-12-21,hardware inspection,122,Preventive inspection completed.
+M000022,D0020,2026-05-22,software update,91,Software patch installed after telemetry warning.
+M000023,D0022,2026-02-21,software update,194,Checked error logs and reset device components.
+M000024,D0023,2026-01-20,hardware inspection,140,Checked error logs and reset device components.
+M000025,D0024,2026-02-01,preventive,192,Preventive inspection completed.
+M000026,D0024,2026-05-20,software update,108,Preventive inspection completed.
+M000027,D0025,2026-04-05,preventive,197,High error count required detailed inspection.
+M000028,D0026,2026-02-22,hardware inspection,65,Checked error logs and reset device components.
+M000029,D0027,2026-02-28,hardware inspection,211,Software patch installed after telemetry warning.
+M000030,D0028,2026-03-30,software update,62,Software patch installed after telemetry warning.
+M000031,D0029,2026-04-04,corrective,116,Checked error logs and reset device components.
+M000032,D0030,2026-03-13,hardware inspection,225,Checked error logs and reset device components.
+M000033,D0030,2026-01-12,corrective,202,High error count required detailed inspection.
+M000034,D0031,2026-03-23,hardware inspection,111,High error count required detailed inspection.
+M000035,D0031,2025-12-26,preventive,221,Checked error logs and reset device components.
+M000036,D0032,2026-01-10,preventive,191,Checked error logs and reset device components.
+M000037,D0032,2026-04-09,corrective,86,High error count required detailed inspection.
+M000038,D0035,2026-04-05,corrective,189,Checked error logs and reset device components.
+M000039,D0035,2026-03-31,hardware inspection,95,Preventive inspection completed.
+M000040,D0036,2026-01-24,preventive,211,Software patch installed after telemetry warning.
+M000041,D0036,2026-04-22,corrective,121,High error count required detailed inspection.
+M000042,D0037,2025-12-08,hardware inspection,139,Preventive inspection completed.
+M000043,D0037,2026-04-27,software update,162,Checked error logs and reset device components.
+M000044,D0038,2026-01-15,corrective,122,High error count required detailed inspection.
+M000045,D0039,2025-12-09,corrective,153,High error count required detailed inspection.
+M000046,D0040,2026-01-13,preventive,106,Preventive inspection completed.
+M000047,D0041,2026-02-07,preventive,214,High error count required detailed inspection.
+M000048,D0042,2026-01-20,corrective,218,Checked error logs and reset device components.
+M000049,D0044,2026-03-31,corrective,89,Checked error logs and reset device components.
+M000050,D0045,2026-01-05,corrective,58,High error count required detailed inspection.
+M000051,D0047,2026-04-13,hardware inspection,175,Preventive inspection completed.
+M000052,D0048,2026-02-06,hardware inspection,139,Checked error logs and reset device components.
+M000053,D0049,2025-12-31,hardware inspection,173,High error count required detailed inspection.
+M000054,D0049,2026-02-24,software update,62,Checked error logs and reset device components.
+M000055,D0051,2025-12-05,preventive,215,High error count required detailed inspection.
+M000056,D0052,2026-05-22,preventive,137,Checked error logs and reset device components.
+M000057,D0052,2026-02-05,software update,27,Software patch installed after telemetry warning.
+M000058,D0055,2026-01-18,corrective,230,High error count required detailed inspection.
+M000059,D0056,2026-01-13,preventive,201,Preventive inspection completed.
+M000060,D0057,2026-01-08,corrective,196,Preventive inspection completed.
+M000061,D0058,2026-04-24,preventive,136,Preventive inspection completed.
+M000062,D0058,2025-12-11,corrective,170,Checked error logs and reset device components.
+M000063,D0059,2026-03-05,preventive,103,Preventive inspection completed.
+M000064,D0059,2026-04-06,corrective,66,Checked error logs and reset device components.
+M000065,D0060,2026-04-19,corrective,55,Preventive inspection completed.
+M000066,D0062,2026-03-26,software update,72,Software patch installed after telemetry warning.
+M000067,D0062,2025-12-25,hardware inspection,157,High error count required detailed inspection.
+M000068,D0064,2026-03-04,preventive,181,Preventive inspection completed.
+M000069,D0065,2026-01-01,preventive,79,Checked error logs and reset device components.
+M000070,D0068,2026-03-31,preventive,237,Checked error logs and reset device components.
+M000071,D0070,2026-05-21,preventive,82,Preventive inspection completed.
+M000072,D0071,2026-03-03,hardware inspection,133,Software patch installed after telemetry warning.
+M000073,D0072,2026-01-01,hardware inspection,214,Checked error logs and reset device components.
+M000074,D0073,2026-01-07,hardware inspection,39,High error count required detailed inspection.
+M000075,D0074,2026-05-07,preventive,83,Preventive inspection completed.
+M000076,D0075,2026-01-20,corrective,38,High error count required detailed inspection.
+M000077,D0076,2026-05-15,software update,185,High error count required detailed inspection.
+M000078,D0076,2026-05-12,preventive,99,High error count required detailed inspection.
+M000079,D0077,2026-05-16,corrective,130,High error count required detailed inspection.
+M000080,D0079,2026-01-08,preventive,79,Preventive inspection completed.
+M000081,D0081,2026-04-15,corrective,178,High error count required detailed inspection.
+M000082,D0082,2025-12-03,corrective,217,Checked error logs and reset device components.
+M000083,D0083,2026-02-08,hardware inspection,211,High error count required detailed inspection.
+M000084,D0084,2026-02-12,corrective,167,Software patch installed after telemetry warning.
+M000085,D0085,2026-05-09,preventive,25,Preventive inspection completed.
+M000086,D0086,2026-02-16,hardware inspection,66,Preventive inspection completed.
+M000087,D0088,2026-02-01,hardware inspection,32,Software patch installed after telemetry warning.
+M000088,D0089,2026-01-22,software update,167,Checked error logs and reset device components.
+M000089,D0090,2026-04-28,hardware inspection,31,Preventive inspection completed.
+M000090,D0090,2026-01-21,hardware inspection,23,High error count required detailed inspection.
+M000091,D0092,2026-03-19,software update,121,Preventive inspection completed.
+M000092,D0094,2026-02-11,software update,106,High error count required detailed inspection.
+M000093,D0095,2026-05-20,software update,27,Software patch installed after telemetry warning.
+M000094,D0096,2026-03-11,hardware inspection,193,Software patch installed after telemetry warning.
+M000095,D0096,2026-01-27,hardware inspection,88,Checked error logs and reset device components.
+M000096,D0097,2026-03-08,hardware inspection,208,Preventive inspection completed.
+M000097,D0098,2026-02-11,preventive,195,Software patch installed after telemetry warning.
+M000098,D0099,2026-04-23,hardware inspection,46,Software patch installed after telemetry warning.
+M000099,D0099,2026-03-17,software update,203,Software patch installed after telemetry warning.
+M000100,D0100,2026-01-30,preventive,56,Preventive inspection completed.
+M000101,D0101,2026-02-12,preventive,86,Software patch installed after telemetry warning.
+M000102,D0101,2025-12-22,software update,33,Software patch installed after telemetry warning.
+M000103,D0102,2026-04-28,hardware inspection,162,Preventive inspection completed.
+M000104,D0102,2026-03-31,preventive,224,Software patch installed after telemetry warning.
+M000105,D0103,2026-04-02,corrective,81,High error count required detailed inspection.
+M000106,D0104,2026-03-07,preventive,126,Checked error logs and reset device components.
+M000107,D0105,2026-01-10,preventive,48,Software patch installed after telemetry warning.
+M000108,D0106,2026-05-14,corrective,49,High error count required detailed inspection.
+M000109,D0106,2026-02-16,hardware inspection,228,Software patch installed after telemetry warning.
+M000110,D0107,2026-03-27,corrective,197,Software patch installed after telemetry warning.
+M000111,D0107,2026-01-13,corrective,162,High error count required detailed inspection.
+M000112,D0108,2025-12-06,hardware inspection,115,High error count required detailed inspection.
+M000113,D0111,2026-04-04,hardware inspection,169,Preventive inspection completed.
+M000114,D0113,2026-02-28,hardware inspection,211,Preventive inspection completed.
+M000115,D0114,2026-02-10,hardware inspection,26,Software patch installed after telemetry warning.
+M000116,D0114,2026-03-17,corrective,66,Preventive inspection completed.
+M000117,D0115,2026-03-14,corrective,41,Checked error logs and reset device components.
+M000118,D0116,2025-12-21,software update,107,Software patch installed after telemetry warning.
+M000119,D0117,2026-04-10,preventive,114,Preventive inspection completed.
+M000120,D0117,2025-12-07,software update,230,Preventive inspection completed.
+M000121,D0118,2026-03-03,software update,181,Preventive inspection completed.
+M000122,D0118,2026-03-30,software update,223,Preventive inspection completed.
+M000123,D0119,2025-12-17,hardware inspection,84,High error count required detailed inspection.
+M000124,D0119,2026-03-17,software update,180,Software patch installed after telemetry warning.
+M000125,D0120,2026-01-22,software update,27,High error count required detailed inspection.
+M000126,D0120,2026-02-07,hardware inspection,46,Checked error logs and reset device components.
