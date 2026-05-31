@@ -70,7 +70,7 @@ def create_pdf_summary(sessions: pd.DataFrame, features: pd.DataFrame, quality: 
     pdf.multi_cell(
         0,
         6,
-        "Note: This report is based only on synthetic demo data and is intended for portfolio/interview demonstration.",
+        "Note: This report is based only on synthetic demo data and is intended for portfolio.",
     )
     pdf.output(str(path))
     return path
